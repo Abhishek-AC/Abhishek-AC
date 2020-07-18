@@ -2,7 +2,7 @@
 
 
 <img src="https://github.com/Abhishek-AC/Abhishek-AC/blob/master/Abhi.png">
-I'm a software engineer and graduate student who is passionate about using code for social good. Some technologies I enjoy working with include Django, React JS and RESTful APIs. I dream to be one of the developers who find life on another planet 🚀
+I'm a software engineer and graduate student who is passionate about using code for social good. Some technologies I enjoy working with include Django, React JS and RESTful APIs. I dream to be one of the developers who finds life on another planet 🚀
 
 ## Find me around the web 🌎
 - Sharing updates on <a href="https://www.linkedin.com/in/abhishek-ac/">LinkedIn</a> 💼
